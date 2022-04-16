@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wolf-leon
 - 👀 I’m interested in Front end web Development,Blochain,UI UX design and playing games.
-- 🌱 I’m currently learning Computer Engineering.
+- 🌱 I’m currently pursuing Computer Engineering.
 - 💞️ I’m looking to collaborate on Front end web Development,UI UX design and Blockchain dev.
 - 📫 How to reach me =>leonmenezes38@gmail.com
 
