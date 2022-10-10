@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @wolf-leon
-- 👀 I’m interested in Front end web Development,Blochain,UI UX design and playing games.
-- 🌱 I’m currently pursuing Computer Engineering.
-- 💞️ I’m looking to collaborate on Front end web Development and UI UX design.
+- 👋 Hi, I’m @squishy-leon
+- 👀 I’m interested in Front end web Development, Blockchain, UI/UX design and playing games with others.
+- 🌱 I’m currently working as a Software Engineer at OneShield.
+- 💞️ I’m looking to collaborate on Frontend Web Development and UI UX design.
 - 📫 How to reach me =>leonmenezes38@gmail.com
 
 <!---
